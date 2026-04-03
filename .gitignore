@@ -1,0 +1,37 @@
+# ==========================================
+# 🛑 SÉCURITÉ : AUTHENTIFICATION GOOGLE
+# Ne JAMAIS envoyer ces fichiers sur internet
+# ==========================================
+credentials.json
+token.json
+
+# ==========================================
+# ⚙️ CONFIGURATION ET ÉTAT PERSONNEL
+# Évite de partager tes chemins Windows personnels
+# ==========================================
+config.json
+sync_state.json
+
+# ==========================================
+# 🐍 FICHIERS TEMPORAIRES PYTHON
+# ==========================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.env
+
+# ==========================================
+# 🖥️ FICHIERS SYSTÈME CACHÉS (Windows/Mac)
+# ==========================================
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ==========================================
+# 🛠️ FICHIERS D'ÉDITEURS DE CODE (VSCode, etc.)
+# ==========================================
+.vscode/
+.idea/
